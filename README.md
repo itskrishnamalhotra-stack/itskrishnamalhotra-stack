@@ -6,7 +6,7 @@ I build complete software products that connect practical business workflows wit
 
 ## Featured work
 
-- **[FreeFakeStudio](https://github.com/itskrishnamalhotra-stack/FreeFakeStudio)** — Colab-first AI image generation and editing studio designed for memory-constrained T4 runtimes.
+- **[KAOSLY AI Case Study](https://github.com/itskrishnamalhotra-stack/itskrishnamalhotra-stack/blob/main/projects/kaosly-ai.md)** — Cross-platform AI workspace with chat, agent workflows, provider integrations, and scoped desktop tools.
 - **[KAOSLY Case Study](https://github.com/itskrishnamalhotra-stack/KAOSLY-Case-Study)** — Creator-first social platform with media, communities, messaging and monetisation workflows.
 - **[Dolphin Waterpark Case Study](https://github.com/itskrishnamalhotra-stack/Dolphin-Waterpark-Case-Study)** — QR-enabled ticketing, POS and operations platform.
 - **[UniConnect](https://github.com/itskrishnamalhotra-stack/UniConnect-university-management-system)** — Role-based university management platform built with Flask.
