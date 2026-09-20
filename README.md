@@ -6,7 +6,7 @@ I build complete software products that connect practical business workflows wit
 
 ## Featured work
 
-- **[KAOSLY AI Case Study](https://github.com/itskrishnamalhotra-stack/itskrishnamalhotra-stack/blob/main/projects/kaosly-ai.md)** — Cross-platform AI workspace with chat, agent workflows, provider integrations, and scoped desktop tools.
+- **[KAOSLY AI](https://github.com/itskrishnamalhotra-stack/kaosly-ai-source)** — Cross-platform AI workspace with chat, agent workflows, provider integrations, and scoped desktop tools. ([Case study](https://github.com/itskrishnamalhotra-stack/itskrishnamalhotra-stack/blob/main/projects/kaosly-ai.md))
 - **[KAOSLY Case Study](https://github.com/itskrishnamalhotra-stack/KAOSLY-Case-Study)** — Creator-first social platform with media, communities, messaging and monetisation workflows.
 - **[Dolphin Waterpark Case Study](https://github.com/itskrishnamalhotra-stack/Dolphin-Waterpark-Case-Study)** — QR-enabled ticketing, POS and operations platform.
 - **[UniConnect](https://github.com/itskrishnamalhotra-stack/UniConnect-university-management-system)** — Role-based university management platform built with Flask.
@@ -35,4 +35,4 @@ Product         Authentication · Payments · Media Pipelines · Automation
 
 I am strengthening my work in production-ready Python services, full-stack product development and applied AI. I am open to junior full-stack, Python backend, applied-AI and product-engineering opportunities.
 
-> Commercial source code remains private. Public case studies document architecture, product decisions and my contributions without exposing confidential implementation details.
+> Selected projects include public source; commercial work is documented through case studies where implementation details remain private.

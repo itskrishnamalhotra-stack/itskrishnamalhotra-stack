@@ -1,5 +1,7 @@
 # KAOSLY AI — AI workspace and agent platform
 
+**[View the reviewed public source snapshot](https://github.com/itskrishnamalhotra-stack/kaosly-ai-source)**
+
 KAOSLY AI is a cross-platform workspace for conversations and multi-step coding and research tasks. It has two product surfaces: **Normal Chat** for everyday use and **Jarvis Agent** for work with plans, files, tools, previews, memory, and user approvals.
 
 The web app and Windows desktop app share a React and TypeScript interface. The Windows build uses a Tauri/Rust host for selected-folder files, managed processes, local speech, and secure credential storage. Browser execution stays within web permissions and a sandboxed workspace.
@@ -31,5 +33,5 @@ flowchart LR
 
 On 21 September 2026, the current development version passed TypeScript typechecking, 294 active Vitest tests, and a production web build. Three emulator tests were skipped. These checks cover the source and automated workflows; they do not establish a signed desktop release or a certified Android release.
 
-The web and Windows desktop implementations are in development. Android source exists, with packaging and release certification deferred. The application source remains private while repository history and release preparation are reviewed.
+The web and Windows desktop implementations are in development. Android source exists, with packaging and release certification deferred. A reviewed source snapshot is public in a separate repository; private development history and generated release assets are excluded.
 
